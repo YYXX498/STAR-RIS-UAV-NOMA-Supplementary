@@ -1,5 +1,5 @@
 # STAR-RIS-UAV-NOMA-Supplementary
-Supplementary materials for the paper on active STAR-RIS assisted UAV networks with NOMA
+Supplementary materials 
 This repository provides supplementary materials for the paper:
 
 **"On the Downlink Performance of Active STAR-RIS assisted UAV networks with NOMA"**
